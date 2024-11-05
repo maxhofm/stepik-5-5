@@ -66,7 +66,7 @@ function App() {
       
       {connected && (
         <a onClick={() => {sendWithdrawalRequest();}}>
-          Withdraw 
+          Withdraw
         </a>
       )}
     </div>
